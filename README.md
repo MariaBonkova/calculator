@@ -1,6 +1,7 @@
-![image](https://github.com/MariaBonkova/calculator/assets/120118418/c1e9114f-a3c8-4901-9b88-0def087880fe)
 
 https://calculator-eight-beta-62.vercel.app/
+![image](https://github.com/MariaBonkova/calculator/assets/120118418/c1e9114f-a3c8-4901-9b88-0def087880fe)
+
 
 # Getting Started with Create React App
 
