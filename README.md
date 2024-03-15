@@ -1,3 +1,5 @@
+![image](https://github.com/MariaBonkova/calculator/assets/120118418/c1e9114f-a3c8-4901-9b88-0def087880fe)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
